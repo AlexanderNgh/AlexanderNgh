@@ -1,5 +1,8 @@
-Hi! My name is Alexander Pham, and I am currently a sophomore college student studying, you guessed it, computer science. I am really interested in software development,
-and producing applications. My favorite projects this semester were in C# and .NET Winforms. I am currently learning HTML, CSS, and overall front end as I continue
-with my studies in univesity. I am looking to collaborate on bigger scale projects! 
+Hello!
 
-If you want to reach me, email me at alexanderncpham@gmail.com
+My name is Alexander and I am a computer science major at the University of Nevada, Las Vegas. 
+I am currently honing my skills in software development and engineering and I am excited about the possibilities in the various computer science industries. 
+I am always open to opportunities for internships where I can apply my skills and contribuite to impactful projects. 
+
+Connect with me on LinkedIn: 
+www.linkedin.com/in/alexander-pham-3239021ba
